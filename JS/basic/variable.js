@@ -1,1 +1,2 @@
-//hello
+//hello 
+var a = 10;
