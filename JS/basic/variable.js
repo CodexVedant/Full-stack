@@ -1,6 +1,19 @@
 //variable declaration 
+/*
+--var = Declares a variable, optionally initializing it to a value.
 
-var hello = 10;
+--let = Declares a block-scoped, local variable, optionally initializing it to a value.
+
+--const = Declares a block-scoped, read-only named constant.*/
+
+let a = 10;//mutable
+let eg;//intialize 
+eg = 10;//then assign value 
+const b = 10;//immutable
+
+var hello = 10;//mutable and can declare variable multiple time()
+
+var hello = 20;
 var hello12 = 10;
 var _helo = 10;
 
