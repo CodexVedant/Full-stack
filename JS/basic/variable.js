@@ -20,7 +20,6 @@ var _helo = 10;
 console.log(hello,_helo,hello12);
 
 //not right way for variable declaration
-
 var @helo = 10; 
 var hello@12 = 10;
 var 123hello = 10; 

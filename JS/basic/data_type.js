@@ -6,7 +6,7 @@
 //just define and assign the value to the variable
 
 var a = 10;
-var b = "hello";
+var b = "hello";//immutable
 var c = true;
 var c = false;
 var d = 10.12;
